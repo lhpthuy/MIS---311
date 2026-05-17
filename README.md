@@ -12,3 +12,4 @@
 Students who passed studied an average of 3.60 hrs/day vs 2.47 hrs/day for those who failed — a 46% difference.
 - Insight 2 – Attendance Rate Matters
 Passing students had an average attendance of 85.97% compared to 83.51% for failing students.
+## file: (final) Part1_DataAnalysis.docx
